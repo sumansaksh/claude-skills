@@ -1,0 +1,16 @@
+{
+  "name": "claude-skills",
+  "owner": {
+    "name": "sumansaksh"
+  },
+  "metadata": {
+    "description": "Skills for reviewing and understanding pull requests."
+  },
+  "plugins": [
+    {
+      "name": "co-review-pr",
+      "source": "./plugins/co-review-pr",
+      "description": "Walk through a GitHub PR one file at a time, in plain language, verified against the real code."
+    }
+  ]
+}

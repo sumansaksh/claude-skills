@@ -1,0 +1,8 @@
+{
+  "name": "co-review-pr",
+  "description": "Walk through a GitHub PR one file at a time, in plain language, verified against the real code.",
+  "version": "1.0.0",
+  "author": {
+    "name": "sumansaksh"
+  }
+}
